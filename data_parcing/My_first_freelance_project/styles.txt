@@ -1,0 +1,67 @@
+Abbey Dubbel
+Abbey Tripel
+Altbier
+Amber Ale
+Amber Lager
+American Pale Ale
+American Strong Ale
+Baltic Porter
+Barley Wine
+Belgian Ale
+Belgian Strong Ale
+Berliner Weisse
+Biere de Garde
+Bitter
+Black IPA
+Blonde Ale
+Brown Ale
+Cider
+Cream Ale
+Czech Pilsner
+Doppelbock
+Dortmunder
+Dry Stout
+Dunkel
+Dunkler Bock
+Eisbock
+English Pale Ale
+English Strong Ale
+Faro
+Flanders Red Ale
+Fruit Beer
+Fruit Lambic
+German Hefeweizen
+German Kristallweizen
+Gose
+Gueuze
+Heller Bock
+Helles
+Imperial IPA
+Imperial Pils
+Imperial Porter
+Imperial Stout
+IPA
+Irish Ale
+Keller
+Low Alcohol
+Marzen
+Mild Ale
+New England IPA
+Old Ale
+Perry
+Pilsner
+Porter
+Premium Lager
+Quadrupel
+Radler
+Saison
+Schwarzbier
+Scotch Ale
+Session IPA
+Smoked
+Sour Ale
+Spiced beer
+Stout
+Weizen Bock
+Wheat Ale
+Witbier

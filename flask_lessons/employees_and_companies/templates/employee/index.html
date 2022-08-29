@@ -1,0 +1,19 @@
+{% extends 'layouts/layout.html' %}
+
+{% block content %}
+<h2>Сотрудники</h2>
+<table>
+  <tbody>
+      <tr>
+          <th>Имя</th>
+          <th>Email</th>
+      </tr>
+      {% for employee in employees %}
+      <tr>
+          <td><a href={{ url_for('get_employee', id=employee.id) }}>{{ employee.name }}</a></td>
+          <td>{{ employee.mail }}</td>
+      </tr>
+          {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

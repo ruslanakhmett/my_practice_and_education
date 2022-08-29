@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Example application</title>
+    <nav>
+      <ul>
+          <li><a href={{ url_for('index') }}>Главная</a></li>
+          <li><a href={{ url_for('employees') }}>Сотрудники</a></li>
+          <li><a href={{ url_for('companies') }}>Организации</a></li>
+      </ul>
+    </nav>
+  </head>
+  <body>
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>

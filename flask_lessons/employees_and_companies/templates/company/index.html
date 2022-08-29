@@ -1,0 +1,10 @@
+{% extends 'layouts/layout.html' %}
+
+{% block content %}
+<h2>Организации</h2>
+    {% for company in companies %}
+    <ul>
+        <li><a href={{ url_for('get_company', id=company.id) }}>{{ company.name }}</a></li>
+    </ul>
+    {% endfor %}
+{% endblock %}

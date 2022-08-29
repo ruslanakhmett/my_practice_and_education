@@ -1,0 +1,11 @@
+{% extends 'layouts/layout.html' %}
+
+{% block content %}
+    <h3>{{ company.name }}</h3>
+    <p>Список сотрудников:</p>
+    <ul>
+      {% for employee in company_employees %}
+      <li><a href={{ url_for('get_employee', id=employee.id) }}>{{ employee.name }}</a></li>
+      {% endfor %}
+    </ul>
+{% endblock %}
